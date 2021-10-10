@@ -67,7 +67,7 @@ int main() {
 	}
 	default:
 	{
-		cout << "Your Entered an incorrect chioce: " << endl;
+		cout << "Your Entered an incorrect chioce" << endl;
 		break;
 	}
 	}
